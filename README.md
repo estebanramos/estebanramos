@@ -5,7 +5,7 @@ My name is Esteban. I'm from Argentina
 <p>💻 Computer Science Student</p>
 <p>👾 Hack The Box and CTF player</p>
 
-## Work
+## 👨‍💻 Work
 
 <p>I work on Cybersecurity. I have experience working in an incident responde team and carrying out penetration tests on diverse systems and applications.</p>
 
