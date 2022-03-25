@@ -7,7 +7,7 @@ My name is Esteban. I'm from Argentina
 
 ## 👨‍💻 Work
 
-<p>I work on Cybersecurity. I have experience working in an incident responde team and carrying out penetration tests on diverse systems and applications.</p>
+<p>I'm on Cybersecurity. I have experience workingin an incident responde team and carrying out penetration tests on diverse systems and applications.</p>
 
 
 
