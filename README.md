@@ -11,15 +11,6 @@ My name is Esteban. I'm from Argentina
 
 
 
-
-
-
-
-## 💬 Contact
-* [Resume (English)](https://estebanramos.github.io/my-resume/)
-* [Resume (Spanish)](https://estebanramos.github.io/mi-curriculum/)
-
-
 <!--
 **estebanramos/estebanramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
