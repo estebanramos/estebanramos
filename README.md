@@ -2,13 +2,13 @@
 
 My name is Esteban. I'm from Argentina
 
-<p>💻 Computer Science Student</p>
-<p>👾 Hack The Box and CTF player</p>
-
+<p>💻 Computer Science Graduate</p>
+<p>👾 Hack The Box & CTF player</p>
+<p>🐧 Linux Nerd & Open Source enthusiast</p>
 
 ## 👨‍💻 Work
 
-<p>🔒 I work on Cybersecurity specializing in Red Team operations and penetration testing</p>
+<p>🔒 I work on Cybersecurity specialized in Red Team operations and Penetration Testing</p>
 <p>🛡️ Skilled in simulating real-world cyber attacks to assess and enhance organizational security posture</p>
 <p>💻 Background in Fullstack Programming with agile methodologies</p>
 
