@@ -1,36 +1,48 @@
 ## Hello 👋
 
-My name is Esteban. I'm from Argentina
+My name is Esteban Ramos. I'm an Offensive Security & Red Team Engineer based in Argentina.
 
-<p>💻 Computer Science Graduate</p>
-<p>👾 Hack The Box & CTF player</p>
-<p>🐧 Linux Nerd & Open Source enthusiast</p>
+---
 
-## 👨‍💻 Work
+## 👨‍💻 Professional Focus
 
-<p>🔒 I work on Cybersecurity specialized in Red Team operations and Penetration Testing</p>
-<p>🛡️ Skilled in simulating real-world cyber attacks to assess and enhance organizational security posture</p>
-<p>💻 Background in Fullstack Programming with agile methodologies</p>
+🔒 Offensive Security / Red Team Operations  
+💥 Vulnerability Research & Exploitation  
+🌐 Application & Infrastructure Security  
+☁️ Cloud & Attack Surface Analysis  
+⚙️ Security Automation & Tooling  
 
+---
 
-## 🤝 Other Media
+## 🛠️ What I Do
 
-- <a href="https://app.hackthebox.com/profile/196049"><img src="https://www.hackthebox.com/images/landingv3/favicon.png" alt="Hack The Box" width="20" height="20"> Hack The Box</a>
-- <a href="https://tryhackme.com/p/Ropx"><img src="https://assets.tryhackme.com/img/favicon.png" alt="TryHackMe" width="20" height="20"> TryHackMe</a>
+I conduct offensive security assessments and red team–style engagements, focusing on identifying, exploiting, and validating real-world attack paths across web applications, cloud environments, and enterprise infrastructure.
 
+My work emphasizes realistic adversary simulation, manual exploitation, and practical security improvements aligned with modern security frameworks.
 
+---
 
-<!--
-**estebanramos/estebanramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technical Background
 
-Here are some ideas to get you started:
+• Offensive Security & Penetration Testing  
+• Internal Network / Active Directory Attacks  
+• Vulnerability Exploitation & Attack Chains  
+• Security Tooling & Automation  
+• Linux / Systems / Cloud Environments  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Background in full-stack development and software engineering practices.
+
+---
+
+## 🔗 Other Platforms
+
+🧠 Hack The Box → https://app.hackthebox.com/users/196049  
+🎯 TryHackMe → https://tryhackme.com/p/Ropx  
+💼 LinkedIn → https://www.linkedin.com/in/esteban-ramos-687178166/
+
+---
+
+## ⚙️ Interests
+
+Security Engineering • Offensive Tooling • Adversary Simulation  
+Automation • Systems • Infrastructure • Cloud Security
